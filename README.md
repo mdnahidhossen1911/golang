@@ -1,5 +1,7 @@
 # Go Programming Tutorial
 
+https://chatgpt.com/share/6772bc10-47d8-8005-b459-f5497b3a5b1f
+
 <h2> 1. Introduction to Go Programming </h2>
 
 - What is Go?
